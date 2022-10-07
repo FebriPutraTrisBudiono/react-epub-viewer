@@ -1,0 +1,11 @@
+{
+  "main.js": "/epub/static/js/main.1aba7c90.chunk.js",
+  "main.js.map": "/epub/static/js/main.1aba7c90.chunk.js.map",
+  "static/js/1.6231e549.chunk.js": "/epub/static/js/1.6231e549.chunk.js",
+  "static/js/1.6231e549.chunk.js.map": "/epub/static/js/1.6231e549.chunk.js.map",
+  "runtime~main.js": "/epub/static/js/runtime~main.4f41871a.js",
+  "runtime~main.js.map": "/epub/static/js/runtime~main.4f41871a.js.map",
+  "index.html": "/epub/index.html",
+  "precache-manifest.35398ee35761aeba3ddce40378a901a0.js": "/epub/precache-manifest.35398ee35761aeba3ddce40378a901a0.js",
+  "service-worker.js": "/epub/service-worker.js"
+}
