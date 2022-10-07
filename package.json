@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/gerhardsletten/react-reader/issues"
   },
-  "homepage": "https://react-reader.metabits.no",
+  "homepage": "http://febriputratrisbudiono.github.io/epub",
   "devDependencies": {
     "@babel/cli": "^7.18.10",
     "@babel/core": "^7.19.0",
